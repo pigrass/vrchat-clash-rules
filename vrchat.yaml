@@ -5,8 +5,8 @@ payload:
 #  - DOMAIN,assets.vrchat.com
 
 # vrchat-music
-- DOMAIN,jd.pypy.moe
-- DOMAIN,llss.io
-- DOMAIN,vrdancing.club
-- DOMAIN,repo.ellyvr.dev
-- DOMAIN,udon.dance
+- DOMAIN-SUFFIX,jd.pypy.moe
+- DOMAIN-SUFFIX,llss.io
+- DOMAIN-SUFFIX,vrdancing.club
+- DOMAIN-SUFFIX,repo.ellyvr.dev
+- DOMAIN-SUFFIX,udon.dance
