@@ -1,5 +1,12 @@
 payload:
 # vrchat
-  - DOMAIN,d348imysud55la.cloudfront.net
-  - DOMAIN,files.vrchat.cloud
-  - DOMAIN,assets.vrchat.com
+#  - DOMAIN,d348imysud55la.cloudfront.net
+#  - DOMAIN,files.vrchat.cloud
+#  - DOMAIN,assets.vrchat.com
+
+# vrchat-music
+- DOMAIN,jd.pypy.moe
+- DOMAIN,llss.io
+- DOMAIN,vrdancing.club
+- DOMAIN,repo.ellyvr.dev
+- DOMAIN,udon.dance
