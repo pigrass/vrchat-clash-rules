@@ -1,5 +1,6 @@
 payload:
 # vrchat网页相关
+
 - DOMAIN,vrchat.com
 - DOMAIN,www.vrchat.com
 - DOMAIN,docs.vrchat.com
