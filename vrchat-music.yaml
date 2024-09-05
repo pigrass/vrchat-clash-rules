@@ -1,9 +1,4 @@
 payload:
-# vrchat
-#  - DOMAIN,d348imysud55la.cloudfront.net
-#  - DOMAIN,files.vrchat.cloud
-#  - DOMAIN,assets.vrchat.com
-
 # vrchat-music
 - DOMAIN-SUFFIX,jd.pypy.moe
 - DOMAIN-SUFFIX,llss.io
