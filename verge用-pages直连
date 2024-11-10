@@ -1,0 +1,33 @@
+# Profile Enhancement Merge Template for Clash Verge
+
+profile:
+  store-selected: true
+
+prepend-rules:
+  - DOMAIN,vrchat.com,DIRECT
+  - DOMAIN,www.vrchat.com,DIRECT
+  - DOMAIN,docs.vrchat.com,DIRECT
+  - DOMAIN,ask.vrchat.com,DIRECT
+  - DOMAIN,help.vrchat.com,DIRECT
+  - DOMAIN,redirect.vrchat.com,DIRECT
+  - DOMAIN,green.vrchat.com,DIRECT
+  - DOMAIN,blue.vrchat.com,DIRECT
+  - DOMAIN,packages.vrchat.com,DIRECT
+  - DOMAIN,recover.vrchat.com,DIRECT
+  - DOMAIN,vrcpm.vrchat.cloud,DIRECT
+  - DOMAIN,api.vrchat.cloud,DIRECT
+  - DOMAIN,cherry.vrchat.cloud,DIRECT
+  - DOMAIN,green.vrchat.cloud,DIRECT
+  - DOMAIN,blue.vrchat.cloud,DIRECT
+  - DOMAIN,grape.vrchat.cloud,DIRECT
+  - DOMAIN,build.vrchat.cloud,DIRECT
+  - DOMAIN,bots.vrchat.cloud,DIRECT
+  - DOMAIN,pipeline.vrchat.cloud,DIRECT
+  - DOMAIN,static.zdassets.com,DIRECT
+  - DOMAIN,p19.zdassets.com,DIRECT
+  - DOMAIN,theme.zdassets.com,DIRECT
+  - DOMAIN,use.fontawesome.com,DIRECT
+  - DOMAIN,vrchat.zendesk.com,DIRECT
+
+dns:
+  use-system-hosts: false
