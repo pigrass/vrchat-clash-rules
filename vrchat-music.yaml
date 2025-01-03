@@ -2,10 +2,10 @@ payload:
 # vrchat-music跳舞房专用，国内建议直连
 
 #pypy相关
-- DOMAIN-SUFFIX,pypy.moe
+#- DOMAIN,jd.pypy.moe
 - DOMAIN-SUFFIX,llss.io
 - DOMAIN-SUFFIX,pypy.dance
-- DOMAIN-SUFFIX,judy.moe
+- DOMAIN,dance.judy.moe
 #wannadance相关
 - DOMAIN-SUFFIX,udon.dance
 - DOMAIN-SUFFIX,xin.moe
