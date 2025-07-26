@@ -1,0 +1,9 @@
+payload:
+# vrchat-pypy跳舞房专用，国内建议走代理
+
+#pypy相关
+#- DOMAIN,jd.pypy.moe
+# http://jd.pypy.moe/api/v1/videos/1633.mp4
+- DOMAIN-SUFFIX,llss.io
+- DOMAIN,jd.pypy.moe
+- DOMAIN,cdn.pypy.dance
