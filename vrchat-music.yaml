@@ -4,9 +4,9 @@ payload:
 #pypy相关
 #- DOMAIN,jd.pypy.moe
 # http://jd.pypy.moe/api/v1/videos/1633.mp4
-- DOMAIN-SUFFIX,llss.io
-- DOMAIN-SUFFIX,pypy.dance
-- DOMAIN,dance.judy.moe
+# - DOMAIN-SUFFIX,llss.io
+# - DOMAIN-SUFFIX,pypy.dance
+# - DOMAIN,dance.judy.moe
 #wannadance相关
 # http://api.wannadance.online/Api/Songs/play?node=nya&id=7970
 - DOMAIN-SUFFIX,wannadance.online
